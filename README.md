@@ -16,11 +16,8 @@ A system performance testing tool developed in C++ that evaluates various hardwa
 - Exposes results to a Python-based GUI via Pybind11.
   
 
-📌 Highlights
+📌 Key Features
 - Accurate timing via std::chrono for nanosecond precision.
-
-- Modular design: each test is a separate C++ module.
-
-- Cross-language functionality using Pybind11.
-
-- Designed for systems evaluation and performance comparison.
+- Cross-language functionality: C++ core with Python GUI via Pybind11
+- Reference Scoring: Rates performance against baseline systems
+- Modular design: independent test components for easy maintenance
