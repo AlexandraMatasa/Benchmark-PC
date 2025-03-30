@@ -7,15 +7,7 @@ A system performance testing tool developed in C++ that evaluates various hardwa
 
 - Evaluates memory capacity and access speed.
 
-- Tests arithmetic and logical performance using:
-
--- Huffman coding
-
--- Monte Carlo Pi estimation
-
--- Bit manipulation
-
--- Taylor series for exponential calculation
+- Tests arithmetic and logical performance using: Huffman coding, Monte Carlo Pi estimation, Bit manipulation, Taylor series for exponential calculation.
 
 - Measures I/O performance and memory transfer speed.
 
