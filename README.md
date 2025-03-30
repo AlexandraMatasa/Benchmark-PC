@@ -4,15 +4,10 @@ A system performance testing tool developed in C++ that evaluates various hardwa
 
 ✨ What It Does
 - Analyzes CPU specifications and frequency.
-
 - Evaluates memory capacity and access speed.
-
 - Tests arithmetic and logical performance using: Huffman coding, Monte Carlo Pi estimation, Bit manipulation, Taylor series for exponential calculation.
-
 - Measures I/O performance and memory transfer speed.
-
 - Aggregates all results into a final benchmark score.
-
 - Exposes results to a Python-based GUI via Pybind11.
   
 
